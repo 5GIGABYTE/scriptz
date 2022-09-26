@@ -1,0 +1,3 @@
+-- iy faster loader
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/5GIGABYTE/scriptz/main/iy%20(3).txt'))()
